@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...open source projects
 - 📫 How to reach me ...18d4437@student.mau.edu.ng
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...Did you know that first computer mouse was made of wood!
+- ⚡ Fun fact: ...Did you know that first computer mouse was made of wood!🫠
 
 <!---
 Hadiza-web/Hadiza-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
